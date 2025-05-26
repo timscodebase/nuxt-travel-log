@@ -8,6 +8,13 @@
       "when": 1748294851550,
       "tag": "0000_free_boomer",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1748297821095,
+      "tag": "0001_noisy_scorpion",
+      "breakpoints": true
     }
   ]
 }
