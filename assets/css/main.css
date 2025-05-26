@@ -1,4 +1,6 @@
 @import "tailwindcss";
+
+/* Be sure to sync these with `components/app/theme-toggle.vue` */
 @plugin "daisyui" {
   themes:
     corporate --default,
