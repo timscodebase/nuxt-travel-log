@@ -1,6 +1,6 @@
-# Nuxt Minimal Starter
+# Nuxt Travel Log
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Nuxt App to keep track of places visited.
 
 ## Setup
 
@@ -35,5 +35,3 @@ Locally preview production build:
 # pnpm
 pnpm preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
